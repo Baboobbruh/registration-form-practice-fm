@@ -1,3 +1,9 @@
 # registration-form-practice-fm
+This is a Registration Form I made in the Responsive Web Design Course in freecodecamp.org
 
-One of the times i've used GitHub
+**Tools Used**
+* codepen.io
+* GitHub
+*   Repositories
+*   codespaces
+* Netlify
