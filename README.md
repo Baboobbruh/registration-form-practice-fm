@@ -4,6 +4,6 @@ This is a Registration Form I made in the Responsive Web Design Course in freeco
 **Tools Used**
 * codepen.io
 * GitHub
-*   Repositories
-*   codespaces
+    * Repositories
+    * codespaces
 * Netlify
